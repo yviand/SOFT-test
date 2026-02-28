@@ -40,3 +40,13 @@ mvn clean test
 
 
 Nếu đúng hết thì Maven sẽ chạy toàn bộ test và báo BUILD SUCCESS.
+
+# Cypress Result
+
+![Cypress Login Result](images/login-test-result.png)
+![Cypress Cart Result](images/cart-test-result.png)
+
+# JMeter Result
+![JMeter Thread Group 1 Result](images/thread-group-1-test-result.png)
+![JMeter Thread Group 2 Result](images/thread-group-2-test-result.png)
+![JMeter Thread Group 3 Result](images/thread-group-3-test-result.png)
